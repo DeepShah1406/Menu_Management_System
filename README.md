@@ -56,7 +56,7 @@ The system is straightforward and user-friendly:
 - phpMyAdmin: Used for database management.
 
 ## Contributing
-Feel free to fork this repository and make improvements. Contributions are welcome!
+Feel free to fork this repository and make improvements. Contributions are welcomed!
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/DeepShah1406/Menu_Management_System/blob/main/LICENSE) file for details.
